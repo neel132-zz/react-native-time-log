@@ -7,7 +7,7 @@ Pure Stateless React Native Time Log Component
 npm i -S react-native-time-log
 ```
 ## Screenshot
-![](/screenshot/screenshot.png?raw=true =320x480)
+![Alt text](/screenshot/screenshot.png?raw=true  "Screenshot" )
 
 ## Example
 
