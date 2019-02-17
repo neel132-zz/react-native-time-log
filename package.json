@@ -2,7 +2,7 @@
   "name": "react-native-time-log",
   "version": "1.0.1",
   "description": "Pure Stateless React Native Time Log Component",
-  "main": "index.js",
+  "main": "src/TimeLog.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
