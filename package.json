@@ -1,0 +1,19 @@
+{
+  "name": "react-native-time-log",
+  "version": "1.0.1",
+  "description": "Pure Stateless React Native Time Log Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "time-line",
+    "timeline",
+    "time-log",
+    "timelog",
+    "react-native-time-log"
+  ],
+  "author": "Neel Gala <neelgala55@gmail.com>",
+  "license": "ISC"
+}
